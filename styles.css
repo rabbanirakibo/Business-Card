@@ -1,0 +1,37 @@
+body {
+    border: 1px solid black;
+    text-shadow: black;
+    border-right: 5px solid black;
+}
+.avatar {
+    display: block;
+    width: 150px;
+    min-height: 100%
+}    
+.bard {
+    display: flex;
+}
+.h6 {
+    display: block;
+    margin-top: -20px;
+}
+.address{
+    display: block;
+    margin-top: 60px;
+    text-align: end;
+
+}
+.place {
+    display: block;
+    margin-top: 40px; 
+}
+.email {
+    margin-top: -20px;
+}
+.phone {
+    margin-top: -20px;
+}
+.DGM {
+    display: block;
+    margin-top: -20px;
+}
